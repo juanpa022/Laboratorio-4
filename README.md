@@ -15,3 +15,12 @@
 <p align="center">
 <img src= https://i.postimg.cc/nzG6dZJY/replit-logo.png)](https://postimg.cc/ygWQdMWk)>
 </p>
+
+
+:warning:Crear un repositorio en Github (con README.md).:white_check_mark:
+
+
+:warning:¿Cual es la raız primitiva mas pequeña de 100049?:white_check_mark:
+
+
+:warning: Si g es la raız primitiva mas pequeña de 100049, encontrar una solucion para.:white_check_mark:
