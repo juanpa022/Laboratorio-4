@@ -19,15 +19,15 @@
 </p>
 
 
-:warning:Crear un repositorio en Github (con README.md).:white_check_mark:
+:warning:Crear un repositorio en Github (con README.md).
 
 
-:warning:¿Cual es la raız primitiva mas pequeña de 100049?:white_check_mark:
+:warning:¿Cual es la raız primitiva mas pequeña de 100049?
 
 
 :warning: Si g es la raız primitiva mas pequeña de 100049, encontrar una solucion :
 
->   g^x mod 100049 = 2021.:x::neutral_face: 
+>   g^x mod 100049 = 2021.
 
 # Implementación
 > Funciones
@@ -41,4 +41,4 @@
   - Funcion para hallar la raiz primitiva de un numero primo 
 > main
 
-- Se encuentra nuestro bucle para que aunemta a (x)
+- Se encuentra nuestro bucle para que aunemta a (x) con gx mod 100049 = 2021.
