@@ -30,8 +30,14 @@
 >   g^x mod 100049 = 2021.:x::neutral_face: 
 
 # Implementación
-> funciones
+> Funciones
 - Funcion de exponenciacion modular
+ - como su nombre lo dice este nos ayuda con la exponenciacion modular
 - Buscar  en el vector
-- factores primos
-- raiz primitiva de un numero primo
+ - es un una función booleana que nos dice si es verdadero 🆚 falso
+- Factores primos
+ - Funcion para encontrar los factores primos de un numero
+- Faiz primitiva de un numero primo
+ - Funcion para hallar la raiz primitiva de un numero primo 
+> main
+-Se encuentra nuestro bucle para que aunemta a (x)
