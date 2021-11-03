@@ -10,7 +10,7 @@
 
 **grupo:** Ccomp 3-1
 
-Compilador:
+:boom:  Compilador  :boom:
 
 <p align="center">
 <img src= https://i.postimg.cc/nzG6dZJY/replit-logo.png)](https://postimg.cc/ygWQdMWk)>
