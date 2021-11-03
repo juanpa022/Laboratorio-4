@@ -23,4 +23,6 @@
 :warning:¿Cual es la raız primitiva mas pequeña de 100049?:white_check_mark:
 
 
-:warning: Si g es la raız primitiva mas pequeña de 100049, encontrar una solucion para.:x::neutral_face:
+:warning: Si g es la raız primitiva mas pequeña de 100049, encontrar una solucion para
+
+g^x mod 100049 = 2021.:x::neutral_face:
