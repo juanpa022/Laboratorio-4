@@ -33,7 +33,7 @@
 > Funciones
 - Funcion de exponenciacion modular
   - como su nombre lo dice este nos ayuda con la exponenciacion modular
-- Buscar  en el vector
+- Buscar  en el vector ###### (encuentra)
   - es un una función booleana que nos dice si es verdadero 🆚 falso
 - Factores primos
   - Funcion para encontrar los factores primos de un numero
