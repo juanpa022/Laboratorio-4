@@ -31,11 +31,11 @@
 
 # Implementación
 > Funciones
-- Funcion de exponenciacion modular
+- Funcion de exponenciacion modular**exponenciacion**
   - como su nombre lo dice este nos ayuda con la exponenciacion modular
-- Buscar  en el vector ###### (encuentra)
+- Buscar  en el vector **encuentra**
   - es un una función booleana que nos dice si es verdadero 🆚 falso
-- Factores primos
+- Factores primos**encuentra**
   - Funcion para encontrar los factores primos de un numero
 - Faiz primitiva de un numero primo
   - Funcion para hallar la raiz primitiva de un numero primo 
