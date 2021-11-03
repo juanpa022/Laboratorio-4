@@ -2,7 +2,7 @@
  Dado un numero primo p, implementar un programa que permita calcular su raíz primitiva mas pequeña (entre 1 y p − 1)
  
  
- <img align="left" width="200" height="150" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fucsp.edu.pe%2F&psig=AOvVaw3xpqB_OdHCNZ_gk7oKhw3u&ust=1635993374359000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKDjxaD--vMCFQAAAAAdAAAAABAD"> 
+ <img align="left" width="200" height="150" src="[![UCSP.png](https://i.postimg.cc/50Ch8vPG/UCSP.png)](https://postimg.cc/zbq2rLYS)"> 
 
 
 
