@@ -25,4 +25,4 @@
 
 :warning: Si g es la raız primitiva mas pequeña de 100049, encontrar una solucion :
 
->>>   g^x mod 100049 = 2021.:x::neutral_face:
+>>>   g^x mod 100049 = 2021.:x::neutral_face: >>>
