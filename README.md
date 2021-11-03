@@ -4,3 +4,8 @@
  
  
 [![UCSP.png](https://i.postimg.cc/50Ch8vPG/UCSP.png)](https://postimg.cc/zbq2rLYS)
+
+
+**NOMBRE:** Juan Pablo Galindo Corornel
+
+**grupo:** Ccomp 3-1
