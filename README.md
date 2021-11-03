@@ -4,10 +4,7 @@
  <p align="right">
  <img src=https://i.postimg.cc/50Ch8vPG/UCSP.png> 
 </p>
-
-
 **NOMBRE:** Juan Pablo Galindo Corornel
-
 **grupo:** Ccomp 3-1
 
 Compilador:
