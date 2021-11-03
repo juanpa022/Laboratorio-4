@@ -41,4 +41,4 @@
   - Funcion para hallar la raiz primitiva de un numero primo 
 > main
 
--Se encuentra nuestro bucle para que aunemta a (x)
+- Se encuentra nuestro bucle para que aunemta a (x)
