@@ -2,8 +2,8 @@
  Dado un numero primo p, implementar un programa que permita calcular su raíz primitiva mas pequeña (entre 1 y p − 1)
  
  
- 
-[![UCSP.png](https://i.postimg.cc/50Ch8vPG/UCSP.png)](https://postimg.cc/zbq2rLYS)
+ <img align="left" width="600" height="200" src=(https://i.postimg.cc/50Ch8vPG/UCSP.png)](https://postimg.cc/zbq2rLYS)> 
+
 
 
 **NOMBRE:** Juan Pablo Galindo Corornel
