@@ -23,4 +23,4 @@
 :warning:¿Cual es la raız primitiva mas pequeña de 100049?:white_check_mark:
 
 
-:warning: Si g es la raız primitiva mas pequeña de 100049, encontrar una solucion para.:x::neutarl_face::neutral_face:
+:warning: Si g es la raız primitiva mas pequeña de 100049, encontrar una solucion para.:x::neutral_face:
