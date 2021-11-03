@@ -8,7 +8,7 @@
 
 **NOMBRE:** Juan Pablo Galindo Corornel
 
-**grupo:** Ccomp 3-1
+**Grupo:** Ccomp 3-1
 
 :boom:  Compilador  :boom:
 
