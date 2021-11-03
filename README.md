@@ -1,9 +1,9 @@
 # Laboratorio-4
  Dado un numero primo p, implementar un programa que permita calcular su raíz primitiva mas pequeña (entre 1 y p − 1)
  
- 
- <img align="left" width="200" height="150" src="[![UCSP.png](https://i.postimg.cc/50Ch8vPG/UCSP.png)](https://postimg.cc/zbq2rLYS)"> 
-
+ <p align="left">
+ <img src=(https://i.postimg.cc/50Ch8vPG/UCSP.png)](https://postimg.cc/zbq2rLYS)> 
+</p>
 
 
 **NOMBRE:** Juan Pablo Galindo Corornel
