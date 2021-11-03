@@ -12,6 +12,6 @@
 
 Compilador:
 
-
-[![replit-logo.png](https://i.postimg.cc/nzG6dZJY/replit-logo.png)](https://postimg.cc/ygWQdMWk)
-
+<p align="center">
+<img src= [![replit-logo.png](https://i.postimg.cc/nzG6dZJY/replit-logo.png)](https://postimg.cc/ygWQdMWk)>
+</p>
